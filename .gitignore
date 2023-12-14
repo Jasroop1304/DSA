@@ -1,2 +1,3 @@
-.vscode
-.dSYM
+**/.vscode
+*.exe
+**/count_freq.dSYM
