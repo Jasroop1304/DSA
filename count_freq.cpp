@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+
 void count(int arr[],int n)
 {  
     int i = 0;
