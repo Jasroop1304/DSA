@@ -25,7 +25,7 @@ void count(int arr[],int n)
     }
 }
 int main()
-{   int arr[]={2,3,3,2,5};
+{   int arr[]={2,3,3,2,5,6};
     count(arr,5);
     for(int i=0;i<5;i++)
        cout<<"Count of "<<i+1<<" is "<<abs(arr[i])<<"\n";
